@@ -1,0 +1,16 @@
+name: extmining-infoprosCHAPTER7-binderized
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - r-base>=4
+  - r-irkernel>=1.1
+  - r-tidyverse
+  - r-devtools
+  - r-ggplot2
+  - r-syuzhet
+  - r-tm
+  - r-twitter
+  - r-nlp
+ 
