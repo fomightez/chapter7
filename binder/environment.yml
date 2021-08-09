@@ -11,6 +11,5 @@ dependencies:
   - r-ggplot2
   - r-syuzhet
   - r-tm
-  - r-rtweet
   - r-nlp
  

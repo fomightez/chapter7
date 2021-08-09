@@ -1,7 +1,7 @@
 #Load libraries
 library(syuzhet)
 library(tm)
-library(rtweet)
+library(twitteR)
 
 #Load dataset
 data<- read.csv("https://raw.githubusercontent.com/textmining-infopros/chapter7/master/7b_dataset.csv")
